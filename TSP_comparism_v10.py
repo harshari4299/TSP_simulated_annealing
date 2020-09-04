@@ -1,15 +1,4 @@
-########################################################################
-#
-# TSP (Travelling Salesman Problem), interactive simulation, uses
-# direct sampling and simulated annealing to find (or approach...)
-# solution
-#
-# Peter U., July/August 2017
-#
-# Version 1.0
-#
-########################################################################
-#
+
 # Import packages:
 import random
 import math
